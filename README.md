@@ -1,0 +1,2 @@
+# khushirepo
+first git repository
